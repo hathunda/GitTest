@@ -1,2 +1,5 @@
 
 // sample test file 1
+
+// Edit one done to file 1
+I am glad to know git is taking care of stuff for me and I can collaborate better with my team members.
